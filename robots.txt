@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-nf4se4.koi888.sbs/sitemap.xml
